@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi there! 👋 I'm Amy</h1>
-<h3 align="center">A passionate full-stack developer in Vancouver, BC (Canada)</h3>
+<h1>Hi there! 👋 I'm Amy</h1>
+<h3>A passionate full-stack developer in Vancouver, BC (Canada)</h3>
 
 - 🔭 I’m currently working on [MovieJar](https://github.com/anagelberg/MovieJar)
 
