@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [MovieJar](https://github.com/anagelberg/MovieJar)
 
-- 🌱 I’m currently learning **React Native, Google OAuth, Typescript, UX Design**
+- 🌱 I’m currently learning **React Native, Typescript, UX Design**
 
 - 📫 How to reach me **amy.nagelberg@gmail.com**
 
