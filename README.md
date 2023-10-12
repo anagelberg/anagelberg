@@ -2,7 +2,7 @@
 <h1>Hi there! 👋 I'm Amy</h1>
 <h3>A passionate full-stack developer in Vancouver, BC (Canada)</h3>
 
-- 🔭 I’m currently working on [MovieJar](https://github.com/anagelberg/MovieJar) and my personal website. 
+- 🔭 I’m currently working on [MovieJar](https://github.com/anagelberg/MovieJar) and [my personal website](https://amy-nagelberg.dev/). 
 
 - 🌱 I’m currently learning **React Native, Typescript, UX Design**
 
