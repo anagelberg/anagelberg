@@ -62,7 +62,7 @@
 
 <br><hr><br>
 
-![instock](https://github.com/anagelberg/anagelberg/assets/62032317/4ae7cf3a-a76c-4c5a-bdbf-8fd52aa1b1a4)
+![instock](https://github.com/anagelberg/anagelberg/assets/62032317/9593fa98-07c6-4591-af1b-e60384e5aafb)
 
 <h3>Full-stack Developer | InStock</h3>
 
@@ -75,7 +75,7 @@
 
 <br><hr><br>
 
-![brainflix](https://github.com/anagelberg/anagelberg/assets/62032317/b1886451-e838-4811-aa44-ee63d12a1e6a)
+![brainflix](https://github.com/anagelberg/anagelberg/assets/62032317/be3a571b-94b7-430c-ba71-4a5d132c3d26)
 
 <h3>Full-stack Developer | BrainFlix</h3>
 
@@ -88,7 +88,7 @@
 
 <br><hr><br>
 
-![bandsite](https://github.com/anagelberg/anagelberg/assets/62032317/f78af699-2039-4a4c-a64e-d0e578f1b076)
+![bandsite](https://github.com/anagelberg/anagelberg/assets/62032317/7f95303e-a1cf-4b39-a9d0-0f59b8832d6c)
 
 <h3>Front-end Developer | BandSite</h3>
 
