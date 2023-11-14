@@ -96,8 +96,8 @@
 <h3>Front-end Developer | BandSite</h3>
 
 <p><b>Date:</b> July 2023</p>
-<p>Developed for a local band, this site reflects my capabilities in creating engaging, user-friendly web experiences and built as part of BrainStation’s core curriculum.  </p>
-<p><b>Tech Stack:</b> JavaScript, React.js, Express.js, SCSS, JSON, Netlify, Heroku<br>
+<p>Developed for a local band, this site reflects my capabilities in using vanilla javascript DOM manipulation directly, and was built as part of BrainStation’s core curriculum.  </p>
+<p><b>Tech Stack:</b> JavaScript (DOM), SCSS, JSON, Netlify <br>
 <b>Note:</b> Private repo for academic integrity. If you would like to evaluate my code for evaluating me for hire,  please reach out to me directly and I would be happy to share it with you. </p>
 
 [View Deployed Site](https://bandsite.amy-nagelberg.dev/) 
