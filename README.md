@@ -41,7 +41,7 @@
 ![Crisis-connect](https://github.com/anagelberg/anagelberg/assets/62032317/5225fee1-5635-4bce-a304-fa93221f4d83)
 
 
-<h3>Lead Developer | Crisis Connect: Crisis Response and Management</h3>
+<h3>Primary Developer | Crisis Connect: Crisis Response and Management</h3>
 
 <p><b>Date:</b> October 2023</p>
 <p>As a finalist in the Women Who Code Hackathon for Social Good 2023, Crisis Connect connects disaster survivors with resources and information. My role involved brainstorming, strategy, collaboration, and front-end development. </p>
