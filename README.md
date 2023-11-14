@@ -35,7 +35,7 @@
 <br><hr><br>
 
 
-![Crisis-connect](https://github.com/anagelberg/anagelberg/assets/62032317/c4db00fb-fa8a-4e00-9546-09f1fea32a5e)
+![Crisis-connect](https://github.com/anagelberg/anagelberg/assets/62032317/5225fee1-5635-4bce-a304-fa93221f4d83)
 
 
 <h3>Lead Developer | Crisis Connect: Crisis Response and Management</h3>
@@ -49,7 +49,7 @@
 
 <br><hr><br>
 
-![lush](https://github.com/anagelberg/anagelberg/assets/62032317/a45faad7-1cfb-4fc7-a22c-e2e50eeeae55)
+![lush](https://github.com/anagelberg/anagelberg/assets/62032317/a38208e4-f375-40a5-9e87-01748c10169c)
 
 <h3>Developer | LUSH Digi-Basket</h3>
 
