@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [MovieJar](https://github.com/anagelberg/MovieJar), adding Google Authorization as well as some user interaction features. 
 
-- 🌱 I’m currently learning about **UX design principles** through UX certificate course through BrainStation, as well as how to implement Google Authorization in Movie Jar. In the future, I will be tackling testing with Jest as well as utilizing TypeScript.
+- 🌱 I’m currently learning about **UX design principles** through UX certificate course through BrainStation, as well as how to implement Google Authorization in Movie Jar. In the future, I will be tackling testing with Jest.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
