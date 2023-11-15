@@ -65,7 +65,7 @@
 
 <br><hr><br>
 
-![instock](https://github.com/anagelberg/anagelberg/assets/62032317/9593fa98-07c6-4591-af1b-e60384e5aafb)
+<!-- ![instock](https://github.com/anagelberg/anagelberg/assets/62032317/9593fa98-07c6-4591-af1b-e60384e5aafb)
 
 <h3>Full-stack Developer | InStock</h3>
 
@@ -76,7 +76,7 @@
 
 [View Deployed Site](https://instock.amy-nagelberg.dev/) 
 
-<br><hr><br>
+<br><hr><br> -->
 
 ![brainflix](https://github.com/anagelberg/anagelberg/assets/62032317/be3a571b-94b7-430c-ba71-4a5d132c3d26)
 
