@@ -2,9 +2,11 @@
 <h2>Hi there! 👋 I'm Amy</h2>
 <h3>A Full-Stack Developer in Vancouver, BC (Canada)</h3>
 
-- 🔭 I’m currently working on [MovieJar](https://github.com/anagelberg/MovieJar), adding Google Authorization as well as some user interaction features. 
+#### 🔭 Current Work: 
+I'm actively developing [MovieJar](https://github.com/anagelberg/MovieJar), a movie organization and recommendation platform. My current focus is integrating Google Authorization to streamline user access and implementing interactive features to enhance user engagement. This project showcases my capability to build user-centric applications with robust backend support.
 
-- 🌱 I’m currently learning about **UX design principles** through UX certificate course through BrainStation, as well as how to implement Google Authorization in Movie Jar. In the future, I will be tackling testing with Jest.
+#### 🌱 Current Learnings: 
+Expanding My UX Design and Technical Skills: I'm currently enrolled in a UX Design certificate course at BrainStation, where I'm absorbing the principles of user-centered design. Simultaneously, I'm exploring the intricacies of Google Authorization integration in MovieJar. Up next, I plan to dive into Jest for testing, aiming to bolster the reliability and efficiency of my applications.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
