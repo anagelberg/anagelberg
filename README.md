@@ -102,7 +102,7 @@
 
 [View Deployed Site](https://bandsite.amy-nagelberg.dev/) 
 
-<br><hr><br>
+<!-- <br><hr><br>
 
 ![nutrition-tracker](https://github.com/anagelberg/anagelberg/assets/62032317/48bd801b-b324-4e44-90e7-9915569f8020)
 
@@ -123,5 +123,5 @@
 
 <p>Another quick hackathon project where users find planet images, the application took just 5 hours to make. I implemented the gallery photo view using vanilla javascript DOM manipulation in just an hour, demonstrating my creativity and problem-solving skills. </p>
 
-[View Deployed Site](https://planet-image-finder.amy-nagelberg.dev/) | [View Repo](https://github.com/anagelberg/hackathon-nasa)
+[View Deployed Site](https://planet-image-finder.amy-nagelberg.dev/) | [View Repo](https://github.com/anagelberg/hackathon-nasa) --> 
 
