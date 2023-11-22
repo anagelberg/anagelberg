@@ -2,11 +2,17 @@
 <h2>Hi there! 👋 I'm Amy</h2>
 <h3>A Full-Stack Developer in Vancouver, BC (Canada)</h3>
 
-#### 🔭 Current Work: 
+#### 💁‍♀️ About Me: 
+My path to web development, transitioning from six years in medical research and a Master's in Pathology and Laboratory Medicine, reflects my enthusiasm for learning and embracing new challenges. As a recent BrainStation Bootcamp graduate, I find joy in crafting interactive, user-friendly digital experiences. I'm excited about combining my analytical skills from research with my passion for tech to create meaningful and innovative solutions. In this journey, I'm continually inspired by the ever-evolving nature of technology and its potential to positively impact our lives.
+
+#### 💻 Current Work: 
 I'm actively developing [MovieJar](https://github.com/anagelberg/MovieJar), a movie organization and recommendation platform. My current focus is integrating Google Authorization to streamline user access and implementing interactive features to enhance user engagement. This project showcases my capability to build user-centric applications with robust backend support.
 
 #### 🌱 Current Learnings: 
 Expanding My UX Design and Technical Skills: I'm currently enrolled in a UX Design certificate course at BrainStation, where I'm absorbing the principles of user-centered design. Simultaneously, I'm exploring the intricacies of Google Authorization integration in MovieJar. Up next, I plan to dive into Jest for testing, aiming to bolster the reliability and efficiency of my applications.
+
+#### 🧁 Personal Interests
+Outside of development, I find enjoyment in baking, crafts, yoga, and puzzles. I also like to travel, and I love animals and nature. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
