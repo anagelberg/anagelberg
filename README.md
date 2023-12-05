@@ -9,7 +9,7 @@ I'm continually inspired by the ever-evolving nature of technology and its poten
 I'm actively developing [MovieJar](https://github.com/anagelberg/MovieJar), a movie organization and recommendation platform. My current focus is integrating Google Authorization to streamline user access and implementing interactive features to enhance user engagement. This project showcases my capability to build user-centric applications with robust backend support.
 
 #### 🌱 Current Learnings: 
-Expanding My UX Design and Technical Skills: I'm currently enrolled in a UX Design certificate course at BrainStation, where I'm absorbing the principles of user-centered design. Simultaneously, I'm exploring the intricacies of Google Authorization integration in MovieJar. Up next, I plan to dive into Jest for testing, aiming to bolster the reliability and efficiency of my applications.
+I'm currently exploring the intricacies of Google Authorization integration in MovieJar. Up next, I plan to dive into Jest for testing, aiming to bolster the reliability and efficiency of my applications. Another priority I currently have is to learn how to deploy my first mobile application using React Native, which is a goal I have for early 2024. 
 
 #### 🧁 Personal Interests
 Outside of development, I find enjoyment in baking, crafts, yoga, and puzzles. I also like to travel, and I love animals and nature. 
