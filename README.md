@@ -5,11 +5,8 @@
 #### 💁‍♀️ About Me: 
 I'm continually inspired by the ever-evolving nature of technology and its potential to positively impact our lives. I recently switched into software development after six years in academic research and am looking for my first job as a developer. I decided to make this switch due to the joy I find in building such interfaces and solving puzzles, and am extremely excited to combine my analytic skills from research with my passion for building meaningful solutions. I love to learn and to challenge myself, and my greatest strength is in my continuous striving for excellence & improvement in all that I do.
 
-#### 💻 Current Work: 
-I'm actively developing [MovieJar](https://github.com/anagelberg/MovieJar), a movie organization and recommendation platform. My current focus is integrating Google Authorization to streamline user access and implementing interactive features to enhance user engagement. This project showcases my capability to build user-centric applications with robust backend support.
-
-#### 🌱 Current Learnings: 
-I'm currently exploring the intricacies of Google Authorization integration in MovieJar. Up next, I plan to dive into Jest for testing, aiming to bolster the reliability and efficiency of my applications. Another priority I currently have is to learn how to deploy my first mobile application using React Native, which is a goal I have for early 2024. 
+#### 💻 Current Work and Learnings: 
+I'm actively continuing development of [MovieJar](https://github.com/anagelberg/MovieJar), a movie organization and recommendation platform with a working MVP that is accepting real world users at this time. Before adding additional functionality to this application, I am taking a step back to learn and apply best testings practices using the Jest testing library framework, in order to bolster the reliability and efficacy of future development. Concurrently, I am registed in the MongoDB Node.js Developer Path, with goal of completion early 2024. My other early 2024 learning goals include building and deploying my first mobile application using React Native. 
 
 #### 🧁 Personal Interests
 Outside of development, I find enjoyment in baking, crafts, yoga, and puzzles. I also like to travel, and I love animals and nature. 
