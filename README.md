@@ -45,7 +45,7 @@ Outside of development, I find enjoyment in baking, crafts, yoga, and puzzles. I
 <h3>Full-stack Developer | MovieJar: Movie Sharing and Organization</h3>
 
 <p><b>Date:</b> Aug 2023 - Current</p>
-<p>MovieJar, a movie organisation and sharing platform, is my capstone project started during my BrainStation Bootcamp experience. It highlights my front-end abilities using SCSS and user-friendly design, alongside robust backend skills in database architecture. I am currently continuing to develop the login and sharing functionality, but a deployed demo of the feel of the site and how movies can be added and organized is available.  </p>
+<p>MovieJar, a movie organisation and sharing platform, is my capstone project started during my BrainStation Bootcamp experience. It highlights my front-end abilities using SCSS and user-friendly design, alongside robust backend skills in database architecture. This application can currently support real-world users, so go ahead and give it a try using your google account! A demo is also available.  </p>
 <p><b>Tech Stack:</b> JavaScript, React.js, SCSS, Node.js, Express.js, Knex.js, MySQL, Heroku, Netlify, Git<br>
 <b>Note:</b> An <a href="https://github.com/anagelberg/movie-picker">old version</a> of this project utilized Python, Flask, and PostgreSQL, but the updated version uses modern web technologies for front-end.</p>
 
