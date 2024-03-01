@@ -3,10 +3,10 @@
 <h3>A Full-Stack Developer in Vancouver, BC (Canada)</h3>
 
 #### 💁‍♀️ About Me: 
-I'm continually inspired by the ever-evolving nature of technology and its potential to positively impact our lives. I recently switched into software development after six years in academic research and am looking for my first job as a developer. I decided to make this switch due to the joy I find in building such interfaces and solving puzzles, and am extremely excited to combine my analytic skills from research with my passion for building meaningful solutions. I love to learn and to challenge myself, and my greatest strength is in my continuous striving for excellence & improvement in all that I do.
+I'm continually inspired by the ever-evolving nature of technology and its potential to positively impact our lives. I recently switched to software development after six years in academic research. I decided to make this switch due to the joy I find in building such interfaces and solving puzzles, and am extremely excited to combine my analytic skills from research with my passion for building meaningful solutions. I love to learn and challenge myself, and my greatest strength is in my continuous striving for excellence & improvement in all that I do.
 
 #### 💻 Current Work and Learnings: 
-I'm actively continuing development of [MovieJar](https://github.com/anagelberg/MovieJar), a movie organization and recommendation platform with a working MVP that is accepting real world users at this time. Before adding additional functionality to this application, I am taking a step back to learn and apply best testings practices using the Jest testing library framework, in order to bolster the reliability and efficacy of future development. Concurrently, I am registed in the MongoDB Node.js Developer Path, with goal of completion early 2024. My other early 2024 learning goals include building and deploying my first mobile application using React Native and taking an AWS certification course. 
+I'm actively continuing the development of [MovieJar](https://github.com/anagelberg/MovieJar), a movie organization and recommendation platform with a working MVP that is accepting real-world users at this time. Before adding additional functionality to this application, I am taking a step back to learn and apply best testing practices using the Jest testing library framework, to bolster the reliability and efficacy of future development. Concurrently, I am registered in the MongoDB Node.js Developer Path, with the goal of completion in early 2024. My other early 2024 learning goals include building and deploying my first mobile application using React Native and taking an AWS certification course. 
 
 #### 🧁 Personal Interests
 Outside of development, I find enjoyment in baking, crafts, yoga, and puzzles. I also like to travel, and I love animals and nature. 
@@ -45,7 +45,7 @@ Outside of development, I find enjoyment in baking, crafts, yoga, and puzzles. I
 <h3>Full-stack Developer | MovieJar: Movie Sharing and Organization</h3>
 
 <p><b>Date:</b> Aug 2023 - Current</p>
-<p>MovieJar, a movie organisation and sharing platform, is my capstone project started during my BrainStation Bootcamp experience. It highlights my front-end abilities using SCSS and user-friendly design, alongside robust backend skills in database architecture. This application can currently support real-world users, so go ahead and give it a try using your google account! A demo is also available.  </p>
+<p>MovieJar, a movie organization and sharing platform, is my capstone project started during my BrainStation Bootcamp experience. It highlights my front-end abilities using SCSS and user-friendly design, alongside robust back-end skills in database architecture. This application can currently support real-world users, so go ahead and give it a try using your Google account! A demo is also available.  </p>
 <p><b>Tech Stack:</b> JavaScript, React.js, SCSS, Node.js, Express.js, Knex.js, MySQL, Heroku, Netlify, Git<br>
 <b>Note:</b> An <a href="https://github.com/anagelberg/movie-picker">old version</a> of this project utilized Python, Flask, and PostgreSQL, but the updated version uses modern web technologies for front-end.</p>
 
